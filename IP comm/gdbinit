@@ -1,0 +1,1 @@
+set solib-absolute-prefix /srv/nfs/rootfs
